@@ -19,6 +19,8 @@ _Find software in the following technologies_
 
 _sistemaspymesjc@gmail.com_
 
+<img align="left" alt="Jitendra Singh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jonathancastroccs&show_icons=true&hide_border=true" />
+
 
 <!--
 **opengiscrm/opengiscrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

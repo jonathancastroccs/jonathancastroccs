@@ -1,19 +1,31 @@
-### Hi there 👋
+### Hi there, I'm Jonathan Castro  👋
 
-## Welcome To Software Factory
+## About Me
 
-_Find software in the following technologies_
+I am a software engineer and technology instructor.
 
-- Laravel
-- Symfony
-- CodeIgniter
-- CakePHP
-- Yii
-- Laminas MVC
+- 🌱 **Current Project:** Actively developing [[pymesshopjc][ecommerce_link](https://github.com/jonathancastroccs/pymesshopjc)]
+- 🥅 **Goals:** Increase contributions to open-source projects and expand my knowledge of emerging technologies, particularly in Web3 and blockchain.
+- 👨‍💻 **Professional Experience:** Over 11 years of experience in software development, specializing in web, blockchain, and application development. Implemented various token standards including ERC-20, ERC-721 (NFTs), and ERC-1155 (Multi-token) smart contracts.
+- 📚 **Learning:** Continuously improving my skills in Laravel, Symfony, Codeigniter, Yii, CakePHP, Slim Framework, Zend, Vue.js, Framework 7 and modern web development practices.
+- 🤝 **Collaboration:** Always open to collaborating on interesting projects and contributing to the developer community.
+- ⚡ **Interests:** I enjoy watching movies and TV shows, exploring new tech gadgets, and spending time with my family in my free time.
 
-## About me
+### Languages and Tools:
 
-[![Github Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=%20https://www.linkedin.com/in/adriano-forcellini-adrianwarrior/)](https://www.linkedin.com/in/sistemaspymesjc/)
+<code><img title="HTMl" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
+<code><img title="Java Script" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
+<code><img title="Node.js" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
+<code><img title="PHP" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></code>
+<code><img title="Laravel" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" /></code>
+<code><img title="Symfony" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png" /></code>
+<code><img title="SQL" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
+<code><img title="MySQL" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>
+<code><img title="Redis" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" /></code>
+<code><img title="Git" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
+<code><img title="Github" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
+
+<br />
 
 ## Contact :mailbox:
 

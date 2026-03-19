@@ -5,11 +5,11 @@
 I am a software engineer and technology instructor.
 
 - 🌱 **Current Project:** Actively developing [[pymesshopjc][ecommerce_link](https://github.com/jonathancastroccs/pymesshopjc)]
-- 🥅 **Goals:** Increase contributions to open-source projects and expand my knowledge of emerging technologies, particularly in Web3 and blockchain.
-- 👨‍💻 **Professional Experience:** Over 11 years of experience in software development, specializing in web, blockchain, and application development. Implemented various token standards including ERC-20, ERC-721 (NFTs), and ERC-1155 (Multi-token) smart contracts.
+- 🥅 **Goals:**  Increase contributions to open-source projects and expand my knowledge of emerging technologies, particularly in ecommerce, forum, and online academic.
+- 👨‍💻 **Professional Experience:**  Over 10 years of experience in software development, specializing in web applications. 
 - 📚 **Learning:** Continuously improving my skills in Laravel, Symfony, Codeigniter, Yii, CakePHP, Slim Framework, Zend, Vue.js, Framework 7 and modern web development practices.
 - 🤝 **Collaboration:** Always open to collaborating on interesting projects and contributing to the developer community.
-- ⚡ **Interests:** I enjoy watching movies and TV shows, exploring new tech gadgets, and spending time with my family in my free time.
+
 
 ### Languages and Tools:
 

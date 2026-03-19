@@ -13,11 +13,11 @@ _Find software in the following technologies_
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=%20https://www.linkedin.com/in/adriano-forcellini-adrianwarrior/)](https://www.linkedin.com/in/jonathan-castro-developer/)
+[![Github Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=%20https://www.linkedin.com/in/adriano-forcellini-adrianwarrior/)](https://www.linkedin.com/in/sistemaspymesjc/)
 
 ## Contact :mailbox:
 
-_contact@agenciaseocastro.com_
+_sistemaspymesjc@gmail.com_
 
 
 <!--

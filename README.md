@@ -4,7 +4,7 @@
 
 I am a software engineer and technology instructor.
 
-- 🌱 **Current Project:** Actively developing [[pymesshopjc][ecommerce_link](https://github.com/jonathancastroccs/pymesshopjc)]
+- 🌱 **Current Project:** Actively developing [Foroworkers Forum][foroworkers_link], [PymesshopJC_Eccommerce][pymesshop_link]
 - 🥅 **Goals:**  Increase contributions to open-source projects and expand my knowledge of emerging technologies, particularly in ecommerce, forum, and online academic.
 - 👨‍💻 **Professional Experience:**  Over 10 years of experience in software development, specializing in web applications. 
 - 📚 **Learning:** Continuously improving my skills in Laravel, Symfony, Codeigniter, Yii, CakePHP, Slim Framework, Zend, Vue.js, Framework 7 and modern web development practices.
@@ -38,6 +38,9 @@ _sistemaspymesjc@gmail.com_
 **opengiscrm/opengiscrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+[foroworkers_link]: https://github.com/foroworkers/foroworkers
+[pymesshop_link]: https://github.com/jonathancastroccs/pymesshopjc
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

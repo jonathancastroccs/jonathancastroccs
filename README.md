@@ -32,7 +32,7 @@ I am a software engineer and technology instructor.
 
 _sistemaspymesjc@gmail.com_
 
-<img align="left" alt="Jitendra Singh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jonathancastroccs&show_icons=true&hide_border=true" />
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jonathancastroccs&show_icons=true&hide_border=true" />
 
 [foroworkers_link]: https://github.com/foroworkers/foroworkers
 [pymesshop_link]: https://github.com/jonathancastroccs/pymesshopjc
